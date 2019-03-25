@@ -17,3 +17,5 @@ The dataset contains 1030 examples and the following features:
 * Input Variable: Fine Aggregate (kg in a m^3^ mixture)
 * Input Variable: Age (days)
 * Output Variable: Concrete compressive strength (MPa)
+
+The final report can be accessed through [this link](https://rpubs.com/jeandsantos88/search_methods_for_hyperparameter_tuning_in_r)
